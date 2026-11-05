@@ -1,0 +1,1 @@
+BigmanBot desktop app releases — auto-update feed (installers only, source kept private)
